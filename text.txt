@@ -1,0 +1,8 @@
+First Computer Programmer!
+
+Ada Lovelace, born in 1815, is considered the world’s first computer programmer. 
+She worked with Charles Babbage on his design for the Analytical Engine, an early mechanical computer.
+ Lovelace recognized that the machine could do more than just calculations—it could follow a sequence of instructions, or an algorithm. 
+ She wrote the first-ever computer program, making her a pioneer in computing. Her visionary ideas laid the foundation for modern programming languages. 
+ Today, the programming language "Ada" is named in her honor. Despite living in the 19th century, her work predicted the future of computers. 
+ She is celebrated every year on Ada Lovelace Day for her contributions to technology.
